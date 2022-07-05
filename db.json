@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "sergio",
+      "empresa": "apple",
+      "email": "sergiojrg98@gmail.com",
+      "telefono": "8331003824",
+      "notas": "estudiante",
+      "id": 2
+    }
+  ]
+}
